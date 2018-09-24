@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ Tags{"LightMode" = "$1ForwardBase"} ]]></content>
+    <tabTrigger>zTags</tabTrigger>
+    <scope>source.shader</scope>
+    <description>定义一个Tags类型</description>
+</snippet>

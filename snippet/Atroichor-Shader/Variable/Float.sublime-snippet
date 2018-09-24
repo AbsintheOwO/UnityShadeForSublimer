@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ _$1FloatScale ("$2FloatScale", Float) = $3 1.0 ]]></content>
+    <tabTrigger>zFloat</tabTrigger>
+    <scope>source.shader</scope>
+    <description>定义一个Float类型</description>
+</snippet>

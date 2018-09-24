@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ float4x4 $1]]></content>
+    <tabTrigger>float4x4</tabTrigger>
+    <scope>source.shader</scope>
+    <description>定义一个float4x4矩阵</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ sqrt($1) ]]></content>
+    <tabTrigger>sqrt</tabTrigger>
+    <scope>source.shader</scope>
+    <description>函数:平方根计算</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+    	 _$1Color("$2Color",Color)=(1.0,1.0,1.0,1.0)
+    	 ]]></content>
+    <tabTrigger>zColor</tabTrigger>
+    <scope>source.shader</scope>
+    <description>定义一个Color类型</description>
+</snippet>

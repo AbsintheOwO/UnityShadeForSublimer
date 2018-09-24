@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ UnityObjectToClipPos($1) ]]></content>
+    <tabTrigger>UnityObjectToClipPos</tabTrigger>
+    <scope>source.shader</scope>
+    <description>函数:将顶点从模型坐标转换到世界坐标</description>
+</snippet>

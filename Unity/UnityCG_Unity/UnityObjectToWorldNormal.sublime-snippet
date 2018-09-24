@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UnityObjectToWorldNormal]]></content>
+    <tabTrigger>UnityObjectToWorldNormal</tabTrigger>
+    <scope>source.shader</scope>
+    <description>将法线从模型坐标转化到世界坐标</description>
+</snippet>

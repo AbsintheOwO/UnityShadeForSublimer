@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ _$1MainTex ("$2Albedo (RGB)", 2D) = "white" {} ]]></content>
+    <tabTrigger>z2D</tabTrigger>
+    <scope>source.shader</scope>
+    <description>定义一个2D类型</description>
+</snippet>

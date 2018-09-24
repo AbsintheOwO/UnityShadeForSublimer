@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ _$1Range ("$2Range", Range($3 8.0,$4 256)) = $5 0 ]]></content>
+    <tabTrigger>zRange</tabTrigger>
+    <scope>source.shader</scope>
+    <description>定义一个Range类型</description>
+</snippet>
